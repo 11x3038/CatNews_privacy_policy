@@ -1,7 +1,7 @@
 /* container */
 .wrapper{
     width:100%;
-    background-color:#fafafa;
+    background-color:#ffc255;
 }
 .wrapper .container{
     max-width:1000px;
@@ -26,7 +26,7 @@
 }
 .wrapper .image{
     display:block;
-    max-width:100%;
+    max-width:30%;
     margin:0px auto;
 }
 .wrapper .text{
