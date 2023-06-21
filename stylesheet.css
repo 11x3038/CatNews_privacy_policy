@@ -17,11 +17,11 @@
     }
 }
 .wrapper .content-item {
-    width:100%;
+    width:30%;
 }
 @media (min-width: 992px) {
     .wrapper .content-item {
-        width:50%;
+        width:30%;
     }
 }
 .wrapper .image{
@@ -30,7 +30,7 @@
     margin:0px auto;
 }
 .wrapper .text{
-    padding:50px;
+    padding:10px;
 }
 .wrapper .text .heading{
     margin:0px 0px 40px 0px;
